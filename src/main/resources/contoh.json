@@ -1,0 +1,11 @@
+
+
+{"id":"1",
+  "name":"wanda",
+
+  "hobbies":["coding","podcast","sport"],
+
+  "address":{"street":"golden prak","city":"tangsel",
+    "country":"indonesia"}
+}
+
